@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BeastcrewSMP.aternos.me:56670",
+    "ip": "BeastcrewSMP.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
